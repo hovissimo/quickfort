@@ -45,6 +45,19 @@ tannedhides: s{Down 4}deb{Right 2}{Down 53}&^
 metal: s{Down 5}deb{Right}p^
 nometal: s{Down 5}dea{Right}f^
 bauxite: s{Down 5}deb{Right}{Down 2}{Right}{Down 42}&^
+stone_white: s{Down 5}deb{Right}{Down 2}{Right}{Down 5}&{Down 11}&{Down 7}&{Down 10}&{Down 2}&{Down}&{Down 7}&{Down 9}&^
+stone_lightgrey: s{Down 5}deb{Right}{Down 2}{Right}{Down 8}&{Down 1}&{Down 5}&{Down 4}&{Down 2}&{Down 12}&{Down 19}&^
+stone_darkgrey: s{Down 5}deb{Right}{Down 2}{Right}{Down 3}&{Down}&{Down 6}&{Down}&{Down}&{Down}&{Down 4}&{Down 10}&{Down 10}&{Down 2}&{Down}&{Down 5}&{Down 4}&^
+stone_brown: s{Down 5}deb{Right}{Down 2}{Right}&{Down}&{Down}&{Down 4}&{Down}&{Down 12}&{Down 6}&^
+stone_yellow: s{Down 5}deb{Right}{Down 2}{Right}{Down 28}&{Down 3}&{Down 3}&{Down 13}&{Down 3}&^
+stone_darkred: s{Down 5}deb{Right}{Down 2}{Right}{Down 42}&^
+stone_red: s{Down 5}deb{Right}{Down 2}{Right}{Down 21}&{Down 5}&{Down 4}&^
+stone_green: s{Down 5}deb{Right}{Down 2}{Right}{Down 44}&{Down 2}&^
+stone_cyan: s{Down 5}deb{Right}{Down 2}{Right}{Down 48}&^
+stone_blue: s{Down 5}deb{Right}{Down 2}{Right}{Down 22}&^
+stone_darkblue: s{Down 5}deb{Right}{Down 2}{Right}{Down 29}&^
+stone_purple: s{Down 5}deb{Right}{Down 2}{Right}{Down 38}&{Down 3}&^
+
 
 # Only use nobauxite on stone piles that you want to accept all "Other Stone" on.
 # This alias works by permitting all "Other Stone",then forbidding just bauxite.
